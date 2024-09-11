@@ -1,10 +1,10 @@
 // Place the URL here with the /api suffix.
 // Ex.:`https://domain.com/api`;
-const backendUrl = `/api`;
+const backendUrl = `https://raally-backend.onrender.com/api`;
 
 // SwaggerUI Documentation URL
 // Leave black if documentation should be hidden
-const apiDocumentationUrl = `/documentation`;
+const apiDocumentationUrl = `https://raally-backend.onrender.com/documentation`;
 
 /**
  * Frontend URL.
