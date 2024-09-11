@@ -110,6 +110,7 @@ function InputRangeFormItem(props) {
             props.onBlur && props.onBlur(event);
           }}
           value={startValue()}
+          
           placeholder={placeholder || undefined}
           autoFocus={autoFocus || undefined}
           autoComplete={autoComplete || undefined}
